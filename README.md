@@ -1,4 +1,4 @@
-![cp2](https://github.com/user-attachments/assets/0a1affc9-d483-4f13-a243-9475c380ecd4)
+
 # 📊 Customer Churn Prediction Using Python & Machine Learning
 ## 🎯 Objective
 To build a predictive model that identifies customers likely to churn using logistic regression.
